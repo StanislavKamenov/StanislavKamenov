@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stanislav Kamenov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
-https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif
+(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astro&label=Profile%20views&color=0e75b6&style=flat" alt="astro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astro" alt="astro" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript,ReactJS,Lua**
 
@@ -27,3 +25,5 @@ https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astro&show_icons=true&locale=en&layout=compact" alt="astro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astro&show_icons=true&locale=en" alt="astro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astro&" alt="astro" /></p>
